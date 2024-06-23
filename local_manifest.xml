@@ -4,8 +4,8 @@
         <remote  name="8890q"
         fetch="https://github.com/8890q" />
 
-        <remote  name="n0201"
-        fetch="https://github.com/n0201" />
+        <remote  name="1hcx"
+        fetch="https://github.com/1hcx" />
         
         <project path="device/samsung/universal8895-common" name="android_device_samsung_universal8895-common" remote="n0201" revision="lineage-21" clone-depth="1" />
         <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="n0201" revision="lineage-21" clone-depth="1" />
